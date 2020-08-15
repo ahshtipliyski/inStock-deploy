@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25695953.chunk.css",
+    "main.js": "/static/js/main.fea83a4a.chunk.js",
+    "main.js.map": "/static/js/main.fea83a4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.c6341b2f.chunk.js": "/static/js/2.c6341b2f.chunk.js",
+    "static/js/2.c6341b2f.chunk.js.map": "/static/js/2.c6341b2f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca3e5c42c743fd65d65db55429aee777.js": "/precache-manifest.ca3e5c42c743fd65d65db55429aee777.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.25695953.chunk.css.map": "/static/css/main.25695953.chunk.css.map",
+    "static/js/2.c6341b2f.chunk.js.LICENSE.txt": "/static/js/2.c6341b2f.chunk.js.LICENSE.txt",
+    "static/media/Warehouse.scss": "/static/media/AvenirNextLTPro-Regular.67016125.otf",
+    "static/media/Icon-add.svg": "/static/media/Icon-add.ed29f714.svg",
+    "static/media/Icon-arrow-right.svg": "/static/media/Icon-arrow-right.72b44d1c.svg",
+    "static/media/Icon-back-arrow.svg": "/static/media/Icon-back-arrow.5367890b.svg",
+    "static/media/Icon-search.svg": "/static/media/Icon-search.28606900.svg",
+    "static/media/Logo-instock.svg": "/static/media/Logo-instock.d69cdef7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.c6341b2f.chunk.js",
+    "static/css/main.25695953.chunk.css",
+    "static/js/main.fea83a4a.chunk.js"
+  ]
+}
