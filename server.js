@@ -1,14 +1,10 @@
 const express = require('express');
 const app = express();
 const cors = require('cors');
-const sPort = 8080;
+const sPort = (process.env.PORT || 8080);
 const warehouseRoutes = require('./routes/warehouses');
 const inventoryRoutes = require('./routes/inventory');
 const path = require('path');
-
-
-
-
 
 
 app.use(express.json());
